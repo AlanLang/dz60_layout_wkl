@@ -3,7 +3,10 @@ https://config.qmk.fm/
 
 https://docs.qmk.fm/#/keycodes
 
+![实物图](./keyboard.JPG)
+
 ![键位图](./layout.png)
+
 ## 键位解释
 ### Layer Switching
 
