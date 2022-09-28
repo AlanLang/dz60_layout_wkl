@@ -105,7 +105,7 @@
       "ANY(LGUI(LCTL(KC_D)))",
       "LCTL(KC_LEFT)",
       "LCTL(KC_RGHT)",
-      "KC_NO",
+      "KC_ESC",
       "KC_LEFT",
       "KC_DOWN",
       "KC_UP",
